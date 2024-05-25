@@ -80,9 +80,9 @@ My name is Nathanael D'Cunha, a front-end developer from India.
 ## 📊 Stats
 <div align="center">
   <picture>
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=nathanaeld01&theme=react&show_icons=true&hide_border=true&count_private=true)" />
+    <img height="185.5px" src="https://github-readme-stats.vercel.app/api?username=nathanaeld01&theme=react&show_icons=true&hide_border=true&count_private=true)" />
   </picture>
   <picture>
-    <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaeld01&theme=react&show_icons=true&hide_border=true&layout=compact" />
+    <img height="185.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaeld01&theme=react&show_icons=true&hide_border=true&layout=compact" />
   </picture>
 </div>
