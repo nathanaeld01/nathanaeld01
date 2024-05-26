@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <picture>
-    <img src="https://komarev.com/ghpvc/?username=nathanaeld01&style=for-the-badge&labelColor=1850a0&color=1d62c4"  />
+    <img src="https://badges.pufler.dev/visits/nathanaeld01/nathanaeld01?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiw5QTMsMyAwIDAsMSAxNSwxMkEzLDMgMCAwLDEgMTIsMTVBMywzIDAgMCwxIDksMTJBMywzIDAgMCwxIDEyLDlNMTIsNC41QzE3LDQuNSAyMS4yNyw3LjYxIDIzLDEyQzIxLjI3LDE2LjM5IDE3LDE5LjUgMTIsMTkuNUM3LDE5LjUgMi43MywxNi4zOSAxLDEyQzIuNzMsNy42MSA3LDQuNSAxMiw0LjVNMy4xOCwxMkM0LjgzLDE1LjM2IDguMjQsMTcuNSAxMiwxNy41QzE1Ljc2LDE3LjUgMTkuMTcsMTUuMzYgMjAuODIsMTJDMTkuMTcsOC42NCAxNS43Niw2LjUgMTIsNi41QzguMjQsNi41IDQuODMsOC42NCAzLjE4LDEyWiIgLz48L3N2Zz4=&labelColor=1850a0&color=1d62c4"  />
   </picture>
   <picture>
     <img src="https://img.shields.io/github/followers/nathanaeld01?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNSwxNEMxMi4zMywxNCA3LDE1LjMzIDcsMThWMjBIMjNWMThDMjMsMTUuMzMgMTcuNjcsMTQgMTUsMTRNNiwxMFY3SDRWMTBIMVYxMkg0VjE1SDZWMTJIOVYxME0xNSwxMkE0LDQgMCAwLDAgMTksOEE0LDQgMCAwLDAgMTUsNEE0LDQgMCAwLDAgMTEsOEE0LDQgMCAwLDAgMTUsMTJaIiAvPjwvc3ZnPg%3D%3D&labelColor=53A318&color=65C71D" />
