@@ -5,15 +5,15 @@
 </div>
 <br />
 <div align="center">
-  <a href="#">
+  <picture>
     <img src="https://badges.pufler.dev/visits/nathanaeld01/nathanaeld01?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiw5QTMsMyAwIDAsMSAxNSwxMkEzLDMgMCAwLDEgMTIsMTVBMywzIDAgMCwxIDksMTJBMywzIDAgMCwxIDEyLDlNMTIsNC41QzE3LDQuNSAyMS4yNyw3LjYxIDIzLDEyQzIxLjI3LDE2LjM5IDE3LDE5LjUgMTIsMTkuNUM3LDE5LjUgMi43MywxNi4zOSAxLDEyQzIuNzMsNy42MSA3LDQuNSAxMiw0LjVNMy4xOCwxMkM0LjgzLDE1LjM2IDguMjQsMTcuNSAxMiwxNy41QzE1Ljc2LDE3LjUgMTkuMTcsMTUuMzYgMjAuODIsMTJDMTkuMTcsOC42NCAxNS43Niw2LjUgMTIsNi41QzguMjQsNi41IDQuODMsOC42NCAzLjE4LDEyWiIgLz48L3N2Zz4=&labelColor=1850a0&color=1d62c4"  />
-  </a>
-  <a href="#">
+  </picture>
+  <picture>
     <img src="https://img.shields.io/github/followers/nathanaeld01?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNSwxNEMxMi4zMywxNCA3LDE1LjMzIDcsMThWMjBIMjNWMThDMjMsMTUuMzMgMTcuNjcsMTQgMTUsMTRNNiwxMFY3SDRWMTBIMVYxMkg0VjE1SDZWMTJIOVYxME0xNSwxMkE0LDQgMCAwLDAgMTksOEE0LDQgMCAwLDAgMTUsNEE0LDQgMCAwLDAgMTEsOEE0LDQgMCAwLDAgMTUsMTJaIiAvPjwvc3ZnPg%3D%3D&labelColor=53A318&color=65C71D" />
-  </a>
-  <a href="#">
+  </picture>
+  <picture>
     <img src="https://img.shields.io/github/stars/nathanaeld01?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiwxNS4zOUw4LjI0LDE3LjY2TDkuMjMsMTMuMzhMNS45MSwxMC41TDEwLjI5LDEwLjEzTDEyLDYuMDlMMTMuNzEsMTAuMTNMMTguMDksMTAuNUwxNC43NywxMy4zOEwxNS43NiwxNy42Nk0yMiw5LjI0TDE0LjgxLDguNjNMMTIsMkw5LjE5LDguNjNMMiw5LjI0TDcuNDUsMTMuOTdMNS44MiwyMUwxMiwxNy4yN0wxOC4xOCwyMUwxNi41NCwxMy45N0wyMiw5LjI0WiIgLz48L3N2Zz4%3D&labelColor=A08918&color=C4A81D" />
-  </a>
+  </picture>
 </div>
 
 ## 👩‍💻 About Me
