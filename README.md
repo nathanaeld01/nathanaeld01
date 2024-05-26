@@ -10,18 +10,22 @@
   </picture>
 </div>
 
-## 👩‍💻  About Me 
+## 👩‍💻 About Me
+
 My name is Nathanael D'Cunha, a front-end developer from India.
 
 ### 🔭 What I'm Working On
-* Threadit: A Reddit clone app. It utilizes a monorepo (Turborepo) to create a frontend and backend app. The frontend is built with Next.js, React and TypeScript. Currently, I am focused on developing the frontend aspect of the app, with the backend soon to follow.
+
+-   Threadit: A Reddit clone app. It utilizes a monorepo (Turborepo) to create a frontend and backend app. The frontend is built with Next.js, React and TypeScript. Currently, I am focused on developing the frontend aspect of the app, with the backend soon to follow.
 
 <br/>
 
 ## 🛠 Language and tools
+
 ### Languages
+
 <picture>
-  <img alt="HTML" title="HTML" src=/icons/html.svg">
+  <img alt="HTML" title="HTML" src="/icons/html.svg">
 </picture>
 <picture>
   <img alt="CSS" title="CSS" src="/icons/css.svg">
@@ -57,6 +61,7 @@ My name is Nathanael D'Cunha, a front-end developer from India.
 </picture>
 
 ### Tools
+
 <picture>
   <img alt="VS Code" title="VS Code" src="/icons/vscode.svg" />
 </picture>
@@ -78,6 +83,7 @@ My name is Nathanael D'Cunha, a front-end developer from India.
 </picture>
 
 ## 📊 Stats
+
 <div align="center">
   <picture>
     <img height="185.5px" src="https://github-readme-stats.vercel.app/api?username=nathanaeld01&theme=react&show_icons=true&hide_border=true&count_private=true)" />
