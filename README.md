@@ -21,60 +21,60 @@ My name is Nathanael D'Cunha, a front-end developer from India.
 ## 🛠 Language and tools
 ### Languages
 <picture>
-  <img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html">
+  <img alt="HTML" title="HTML" src=/icons/html.svg">
 </picture>
 <picture>
-  <img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css">
+  <img alt="CSS" title="CSS" src="/icons/css.svg">
 </picture>
 <picture>
-  <img alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js">
+  <img alt="JavaScript" title="JavaScript" src="/icons/js.svg">
 </picture>
 <picture>
-  <img alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts">
-</picture>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<picture>
-  <img alt="React" title="React" src="https://skillicons.dev/icons?i=react">
-</picture>
-<picture>
-  <img alt="NextJS" title="NextJS" src="https://skillicons.dev/icons?i=nextjs">
-</picture>
-<picture>
-  <img alt="Tailwind CSS" title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwindcss">
+  <img alt="TypeScript" title="TypeScript" src="/icons/ts.svg">
 </picture>
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 <picture>
-  <img alt="MongoDB" title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img alt="React" title="React" src="/icons/react.svg">
 </picture>
 <picture>
-  <img alt="Supabase" title="Supabase" src="https://skillicons.dev/icons?i=supabase" />
+  <img alt="NextJS" title="NextJS" src="/icons/nextjs.svg">
+</picture>
+<picture>
+  <img alt="Tailwind CSS" title="Tailwind CSS" src="/icons/tailwindcss.svg">
+</picture>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<picture>
+  <img alt="MongoDB" title="MongoDB" src="/icons/mongodb.svg" />
+</picture>
+<picture>
+  <img alt="Supabase" title="Supabase" src="/icons/supabase.svg" />
 </picture>
 
 ### Tools
 <picture>
-  <img alt="VS Code" title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+  <img alt="VS Code" title="VS Code" src="/icons/vscode.svg" />
 </picture>
 <picture>
-  <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git">
+  <img alt="Git" title="Git" src="/icons/git.svg">
 </picture>
 <picture>
-  <img alt="Postman" title="Postman" src="https://skillicons.dev/icons?i=postman">
+  <img alt="Postman" title="Postman" src="/icons/postman.svg">
 </picture>
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 <picture>
-  <img alt="Vercel" title="Vercel" src="https://skillicons.dev/icons?i=vercel">
+  <img alt="Vercel" title="Vercel" src="/icons/vercel.svg">
 </picture>
 <picture>
-  <img alt="Netlify" title="Netlify" src="https://skillicons.dev/icons?i=netlify">
+  <img alt="Netlify" title="Netlify" src="/icons/netlify.svg">
 </picture>
 
 ## 📊 Stats
