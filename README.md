@@ -21,7 +21,7 @@ My name is Nathanael D'Cunha, a front-end developer from India.
 ## 🛠 Language and tools
 ### Languages
 <picture>
-  <img alt="HTML" title="HTML" src=/icons/html.svg">
+  <img alt="HTML" title="HTML" src="/icons/html.svg">
 </picture>
 <picture>
   <img alt="CSS" title="CSS" src="/icons/css.svg">
