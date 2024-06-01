@@ -26,7 +26,7 @@ My name is Nathanael D'Cunha, a front-end developer from India.
 
 <br/>
 
-## 🛠 Language and tools
+## 🛠 Language & Tools
 
 ### Languages
 
