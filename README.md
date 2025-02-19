@@ -20,12 +20,6 @@
 
 My name is Nathanael D'Cunha, a front-end developer from India.
 
-### 🔭 What I'm Working On
-
--   [Threadit](https://github.com/nathanaeld01/threadit): A Reddit clone app. It utilizes a monorepo (Turborepo) to create a frontend and backend app. The frontend is built with Next.js, React and TypeScript. Currently, I am focused on developing the frontend aspect of the app, with the backend soon to follow.
-
-<br/>
-
 ## 🛠 Language & Tools
 
 ### Languages
@@ -98,3 +92,6 @@ My name is Nathanael D'Cunha, a front-end developer from India.
     <img height="185.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaeld01&theme=react&show_icons=true&hide_border=true&layout=compact" />
   </picture>
 </div>
+
+## 🔭 My Projects
+⬇️
